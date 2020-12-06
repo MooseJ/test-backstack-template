@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-backstack-template
+  description: null
+spec:
+  type: website
+  lifecycle: experimental
+  owner: MooseJ
